@@ -26,7 +26,7 @@ Function myspaceship returns a _STRING.
 
 We are using Computer Graphics Coordinate System
 
-<img="https://storage.googleapis.com/qwasar-public/track-rust/computer_coordinates.png">
+<img src="https://storage.googleapis.com/qwasar-public/track-rust/computer_coordinates.png">
 
 All spaceships will start at 0,0 and will face up Moving left/right will influence X and moving up/down will influence Y
 
