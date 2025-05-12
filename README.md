@@ -11,13 +11,13 @@ Inside the quest files you will find exercises to learn concepts, the other file
 Here are the currently available folders:
 
 - [Quest_01](./quest_01)
-- [Quest_02]()
-- [Quest_03]()
-- [My_square]()
-- [Quest_05]()
-- [My_Ngram]()
-- [My_mastermind]()
-- [My_printf]()
+- [Quest_02](./quest_02)
+- [Quest_03](./quest_03)
+- [My_square](./my_square)
+- [Quest_05](./quest_05)
+- [My_Ngram](./my_ngram)
+- [My_mastermind](./my_mastermind)
+- [My_printf](./my_printf)
 
 ---
 
