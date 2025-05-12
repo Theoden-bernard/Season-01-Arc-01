@@ -10,7 +10,7 @@ ___
 Inside the quest files you will find exercises to learn concepts, the other files are projects to implement the latest concepts learned.
 Here are the currently available folders:
 
-- [Quest_01]()
+- [Quest_01](./quest_01)
 - [Quest_02]()
 - [Quest_03]()
 - [My_square]()
